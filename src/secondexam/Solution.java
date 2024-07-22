@@ -6,7 +6,7 @@ class Solution {
     public int func_a(int month, int day){
         int monthList[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int total = 0;
-        for(int i = 0; i < monthList.length ; i++)
+        for(int i = 0; i < month -1 ; i++)
             total += i;
         total += 1;
         return total - 1;
