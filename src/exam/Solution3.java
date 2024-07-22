@@ -18,7 +18,7 @@ public class Solution3 {
                 current /= 10;
             }//while
 
-            if(temp != count)
+            if(temp == count)
             System.out.print(i);
             System.out.print(" ");
 
