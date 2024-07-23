@@ -6,7 +6,7 @@ class Solution {
     public int solution(int numApple, int numCarrot, int k) {
         int answer = 0;
         if(numApple < 3 * numCarrot)
-            answer = numApple / 4;
+            answer = numApple / 3;
         else
             answer = numCarrot;
 
@@ -15,7 +15,7 @@ class Solution {
 
         for(int i = 0; k - (numApple + numCarrot + i) > 0; i++)
             if(i % 4 == 0)
-                answer++;
+                answer--;
         return answer;
     }
      // 아래는 테스트케이스 출력을 해보기 위한 main 메소드입니다. main 메소드는 잘못된 부분이 없으니, solution 메소드만 수정하세요.
