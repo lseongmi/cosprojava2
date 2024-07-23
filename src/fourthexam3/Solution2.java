@@ -12,7 +12,7 @@ class Solution2 {
                 usedTv[j]++;
 
         for(int i = 0; i < 25; i++)
-            if(usedTv[i] > 1)
+            if(usedTv[i] >= 2)
                 answer++;
 
         return answer;
