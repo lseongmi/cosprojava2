@@ -3,9 +3,7 @@
  =========================================================*//*=======================================================
  * 4차시 6번 : 4차 2급 6_initial_code.java
  =========================================================*/
-package thirdexam4;
-
-import java.util.*;
+package fourthExam.thirdexam4;
 
 class Solution {
     public int solution(int[] calorie) {
