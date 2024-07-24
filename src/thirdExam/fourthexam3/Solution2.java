@@ -1,7 +1,7 @@
 /*========================================================
   3차 8번    3차 2급 8_initial_code.java
   ========================================================*/
-package fourthexam3;
+package thirdExam.fourthexam3;
 class Solution2 {
     public int solution(int[][] programs) {
         int answer = 0;

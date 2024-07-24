@@ -1,7 +1,7 @@
 /*========================================================
   2차 7번    2차 2급 7_initial_code.java
   ========================================================*/
-package fourthexam2;
+package secondExam.fourthexam2;
 class Solution {
     public int solution(int value, String unit) {
         int converted = 0;

@@ -1,4 +1,4 @@
-package firstexam2;
+package secondExam.firstexam2;
 
 public class Solution2 {
     public int func_a(int[] arr){

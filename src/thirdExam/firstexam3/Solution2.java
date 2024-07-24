@@ -1,7 +1,7 @@
 /*========================================================
   3차 2번    3차 2급 2_initial_code.java
   ========================================================*/
-package firstexam3;
+package thirdExam.firstexam3;
 class Solution2 {
     public int func_a(int[] currentGrade, int[] lastGrade, int[] rank, int maxDiffGrade) {
         int arrLength = currentGrade.length;

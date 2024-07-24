@@ -1,7 +1,7 @@
 /*========================================================
   1차 3번    1차 2급 3_initial_code.java
   ========================================================*/
-package secondexam;
+package fitstExam.secondexam;
 class Solution {
     public int func_a(int month, int day){
         int monthList[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};

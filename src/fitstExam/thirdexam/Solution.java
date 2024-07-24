@@ -1,7 +1,7 @@
 /*========================================================
   1차 5번    1차 2급 5_initial_code.java
   ========================================================*/
-package thirdexam;
+package fitstExam.thirdexam;
 import java.util.*;
 
 class Solution {

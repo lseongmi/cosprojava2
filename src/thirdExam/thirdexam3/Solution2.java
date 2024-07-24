@@ -1,7 +1,7 @@
 /*========================================================
   3차 6번    3차 2급 6_initial_code.java
   ========================================================*/
-package thirdexam3;
+package thirdExam.thirdexam3;
 class Solution2 {
     public String solution(int tileLength) {
         String answer = "";

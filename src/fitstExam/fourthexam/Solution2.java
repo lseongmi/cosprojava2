@@ -1,4 +1,4 @@
-package fourthexam;
+package fitstExam.fourthexam;
 
 public class Solution2 {
     boolean solution(String sentence){

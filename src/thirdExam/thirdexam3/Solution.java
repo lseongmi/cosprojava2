@@ -1,7 +1,7 @@
 /*========================================================
   3차 5번    3차 2급 5_initial_code.java
   ========================================================*/
-package thirdexam3;
+package thirdExam.thirdexam3;
 class Solution {
 	public int solution(int[] memberAge, String transportation) {
 		int adultExpense = 0;

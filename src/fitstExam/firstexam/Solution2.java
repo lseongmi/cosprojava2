@@ -2,8 +2,7 @@
   1차 2번    1차 2급 2_initial_code.java
   ========================================================*/
 // You may use import as below.
-package firstexam;
-import java.util.*;
+package fitstExam.firstexam;
 
 class Solution2 {
     public int solution(int price, String grade) {

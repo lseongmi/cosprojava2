@@ -1,7 +1,7 @@
 /*========================================================
   2차 6번    2차 2급 6_initial_code.java
   ========================================================*/
-package thirdexam2;
+package secondExam.thirdexam2;
 class Solution2 {
     public int solution(int[] floors) {
         int dist = 0;

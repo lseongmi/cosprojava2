@@ -2,7 +2,7 @@
 /*========================================================
 1차 7번    1차 2급 7_initial_code.java
 ========================================================*/
-package fourthexam;
+package fitstExam.fourthexam;
 class Solution {
     public int solution(int[] scores) {
         int count = 0;

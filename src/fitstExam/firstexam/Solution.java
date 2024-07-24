@@ -1,4 +1,4 @@
-package firstexam;
+package fitstExam.firstexam;
 /*
   1차 1번    1차 2급 1_initial_code.java
   ========================================================*/

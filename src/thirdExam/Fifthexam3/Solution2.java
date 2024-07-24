@@ -1,4 +1,4 @@
-package Fifthexam3;
+package thirdExam.Fifthexam3;
 class Solution2 {
     public int solution(int[] arr) {
         int answer = 0;

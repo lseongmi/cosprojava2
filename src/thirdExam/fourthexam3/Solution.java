@@ -1,7 +1,7 @@
 /*========================================================
   3차 7번    3차 2급 7_initial_code.java
   ========================================================*/
-package fourthexam3;
+package thirdExam.fourthexam3;
 class Solution {
     public int solution(int numApple, int numCarrot, int k) {
         int answer = 0;

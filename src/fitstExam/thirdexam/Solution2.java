@@ -1,4 +1,4 @@
-package thirdexam;
+package fitstExam.thirdexam;
 
 public class Solution2 {
     public int solution(int number) {

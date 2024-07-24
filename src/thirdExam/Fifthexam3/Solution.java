@@ -1,7 +1,7 @@
 /*========================================================
   3차 9번    3차 2급 9_initial_code.java
   ========================================================*/
-package Fifthexam3;
+package thirdExam.Fifthexam3;
 class Solution {
     public int solution(int day, int[] numbers) {
         int count = 0;

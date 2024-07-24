@@ -2,8 +2,7 @@
   2차 3번    2차 2급 3_initial_code.java
   ========================================================*/
 // 다음과 같이 import를 사용할 수 있습니다.
-package secondexam2;
-import java.util.*;
+package secondExam.secondexam2;
 
 class Solution {
     public int solution(int N, int M) {

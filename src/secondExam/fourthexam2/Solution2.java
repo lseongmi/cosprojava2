@@ -1,7 +1,7 @@
 /*========================================================
   2차 8번    2차 2급 8_initial_code.java
   ========================================================*/
-package fourthexam2;
+package secondExam.fourthexam2;
 class Solution2 {
     public int solution(int number) {
         int count = 0;

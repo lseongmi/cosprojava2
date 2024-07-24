@@ -1,7 +1,7 @@
 /*========================================================
   2차 9번    2차 2급 9_initial_code.java
   ========================================================*/
-package Fifthexam2;
+package secondExam.Fifthexam2;
 class Solution {
     public int solution(int[] votes, int N, int K) {
         int[] counter = new int[N + 1];

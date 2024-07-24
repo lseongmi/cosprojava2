@@ -15,7 +15,7 @@ class Solution {
         int[] answer = new int[xCount];
         for(int i=0, j=0; i<10; i++) {
             if(schedule[i].charAt(0) == 'X') {
-                 answer[@@@] = @@@;
+                 answer[j++] = i+1;
             }
         }
         return answer;

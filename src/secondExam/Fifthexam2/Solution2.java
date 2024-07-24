@@ -1,7 +1,7 @@
 /*========================================================
   2차 10번    2차 2급 10_initial_code.java
   ========================================================*/
-package Fifthexam2;
+package secondExam.Fifthexam2;
 class Solution2 {
     public int solution(int[] purchase) {
         int total = 0;

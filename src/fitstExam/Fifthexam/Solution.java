@@ -1,7 +1,7 @@
 /*========================================================
   1차 9번    1차 2급 9_initial_code.java
   ========================================================*/
-package Fifthexam;
+package fitstExam.Fifthexam;
 class Solution {
     public String solution(String characters){
         String result = "";

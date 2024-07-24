@@ -1,9 +1,8 @@
-package secondexam3;
+package thirdExam.secondexam3;
 /*========================================================
   3차 3번    3차 2급 3_initial_code.java
   ========================================================*/
 // 다음과 같이 import를 사용할 수 있습니다.
-import java.util.*;
 
 
 class Solution {

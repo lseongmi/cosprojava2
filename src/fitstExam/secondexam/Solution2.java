@@ -1,4 +1,4 @@
-package secondexam;
+package fitstExam.secondexam;
 
 public class Solution2 {
     int[] func_a(int[] arr){

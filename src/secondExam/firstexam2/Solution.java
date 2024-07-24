@@ -1,7 +1,7 @@
 /*========================================================
   2차 1번    2차 2급 1_initial_code.java
   ========================================================*/
-package firstexam2;
+package secondExam.firstexam2;
 class Solution {
     final int maxProductNumber = 10;
     

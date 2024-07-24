@@ -1,6 +1,4 @@
-package secondexam3;
-
-import java.util.*;
+package thirdExam.secondexam3;
 
 class Solution2 {
     public int solution(String[] words, String word) {

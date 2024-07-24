@@ -1,4 +1,4 @@
-package Fifthexam;
+package fitstExam.Fifthexam;
 
 public class Solution2 {
     public int solution(int[] data) {

@@ -1,10 +1,9 @@
-package secondexam2;
+package secondExam.secondexam2;
 
 /*========================================================
   2차 4번    2차 2급 4_initial_code.java
   ========================================================*/
 // 다음과 같이 import를 사용할 수 있습니다.
-import java.util.*;
 
 class Solution2 {
     public String solution(String[] words) {

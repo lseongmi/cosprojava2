@@ -1,7 +1,7 @@
 /*========================================================
   3차 1번    3차 2급 1_initial_code.java
   ========================================================*/
-package firstexam3;
+package thirdExam.firstexam3;
 import java.util.*;
 
 class Solution {
