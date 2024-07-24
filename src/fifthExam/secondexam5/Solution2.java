@@ -1,7 +1,7 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 4번 : 5차 2급 4_initial_code.java
  ==========================================================*/
-package secondexam5;
+package fifthExam.secondexam5;
 class Solution2 {
     public int solution(int taekwondo, int running, int[] shooting) {
         int answer = 0;

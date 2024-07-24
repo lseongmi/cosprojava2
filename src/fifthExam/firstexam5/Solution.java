@@ -1,7 +1,7 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 1번 : 5차 2급 1_initial_code.java
  ==========================================================*/
-package firstexam5;
+package fifthExam.firstexam5;
 class Solution {
     public int solution(int[][] ladders, int win) {
         int answer = 0;

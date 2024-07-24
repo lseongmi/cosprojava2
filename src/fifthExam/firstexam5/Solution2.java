@@ -1,7 +1,7 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 2번 : 5차 2급 2_initial_code.java
  ==========================================================*/
-package firstexam5;
+package fifthExam.firstexam5;
 class Solution2 {
     public int func_a(int[] timeTable) {
         int answer = 0;

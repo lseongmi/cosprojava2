@@ -1,7 +1,7 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 3번 : 5차 2급 3_initial_code.java
  ==========================================================*/
-package secondexam5;
+package fifthExam.secondexam5;
 class Solution {
     public int solution(int speed, int[] cars) {
         int answer = 0;
