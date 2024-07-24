@@ -2,7 +2,7 @@
 /*=======================================================
  * 4차시 1번 : 4차 2급 1_initial_code.java
  =========================================================*/
-package firstexam4;
+package fourthExam.firstexam4;
 import java.util.Arrays;
 
 class Solution {

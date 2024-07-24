@@ -1,7 +1,7 @@
 /*=======================================================
  * 4차시 4번 : 4차 2급 4_initial_code.java
  =========================================================*/
-package secondexam4;
+package fourthExam.secondexam4;
 class Solution2 {
     public int solution(int[] classes, int m) {
         int answer = 0;

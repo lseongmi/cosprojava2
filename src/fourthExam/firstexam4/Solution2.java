@@ -1,7 +1,7 @@
 /*=======================================================
  * 4차시 2번 : 4차 2급 2_initial_code.java
  =========================================================*/
-package firstexam4;
+package fourthExam.firstexam4;
 class Solution2 {
     public int func_a(int passed, int non_passed) {
         if (passed > 1 && non_passed == 0)

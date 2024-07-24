@@ -1,7 +1,7 @@
 /*=======================================================
  * 4차시 3번 : 4차 2급 3_initial_code.java
  =========================================================*/
-package secondexam4;
+package fourthExam.secondexam4;
 import java.util.Arrays;
 class Solution {
     String func_a(String bundle, int start, int n) {
