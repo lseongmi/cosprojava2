@@ -1,8 +1,7 @@
 /*=======================================================
  * 4차시 8번 : 4차 2급 8_initial_code.java
  =========================================================*/
-package fourthexam4;
-import java.util.*;
+package fourthExam.fourthexam4;
 
 class Solution2 {
     public int solution(int n, int[] votes) {

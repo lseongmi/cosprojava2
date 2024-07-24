@@ -1,8 +1,7 @@
 /*=======================================================
  * 4차시 7번 : 4차 2급 7_initial_code.java
  =========================================================*/
-package fourthexam4;
-import java.util.*;
+package fourthExam.fourthexam4;
 import java.util.Arrays;
 
 class Solution {
