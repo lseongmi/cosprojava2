@@ -2,8 +2,7 @@
  * 4차시 10번 : 4차 2급 10_initial_code.java
  =========================================================*/
 // 다음과 같이 import를 사용할 수 있습니다.
-package Fifthexam4;
-import java.util.*;
+package fourthExam.Fifthexam4;
 
 class Solution2 {
     public int solution(int[] scores, int cutline) {

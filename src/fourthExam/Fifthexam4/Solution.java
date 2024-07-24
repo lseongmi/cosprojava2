@@ -1,9 +1,8 @@
 /*=======================================================
  * 4차시 9번 : 4차 2급 9_initial_code.java
  =========================================================*/
-package Fifthexam4;
+package fourthExam.Fifthexam4;
 // 다음과 같이 import를 사용할 수 있습니다.
-import java.util.*;
 
 class Solution {
     public int solution(int[][] height) {
