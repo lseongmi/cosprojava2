@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 8번 : 6차 2급 8_initial_code.java
  ======================================================================*/
-package fourthexam6;
+package sixthExam.fourthexam6;
 class Solution2 {
     public int func_a(int number1, int number2) {
         int ret = 0;

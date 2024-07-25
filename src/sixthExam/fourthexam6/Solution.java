@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 7번 : 6차 2급 7_initial_code.java
  ======================================================================*/
-package fourthexam6;
+package sixthExam.fourthexam6;
 class Solution {
     public int solution(int money, int[] chairs, int[] desks) {
         int answer = 0;

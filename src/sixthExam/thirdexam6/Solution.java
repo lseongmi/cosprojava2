@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 5번 : 6차 2급 5_initial_code.java
  ======================================================================*/
-package thirdexam6;
+package sixthExam.thirdexam6;
 class Solution {
     public int solution(int money, int price, int n) {
         int answer = 0;

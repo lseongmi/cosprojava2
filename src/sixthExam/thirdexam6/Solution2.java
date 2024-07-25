@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 6번 : 6차 2급 6_initial_code.java
  ======================================================================*/
-package thirdexam6;
+package sixthExam.thirdexam6;
 class Solution2 {
     public boolean solution(String password) {
         boolean answer = true;
