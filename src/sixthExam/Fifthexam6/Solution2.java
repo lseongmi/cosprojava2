@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 10번 : 6차 2급 10_initial_code.java
  ======================================================================*/
-package Fifthexam6;
+package sixthExam.Fifthexam6;
 class Solution2 {
     public int solution(int weight, int[] boxes) {
         int answer = 0;

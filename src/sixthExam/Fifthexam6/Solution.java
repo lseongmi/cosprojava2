@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 9번 : 6차 2급 9_initial_code.java
  ======================================================================*/
-package Fifthexam6;
+package sixthExam.Fifthexam6;
 public class Solution {
 	public int solution(int[] socks) {
 
