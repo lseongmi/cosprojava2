@@ -1,9 +1,8 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 10번 : 5차 2급 10_initial_code.java
  ==========================================================*/
-package Fifthexam5;
+package fifthExam.Fifthexam5;
 // 다음과 같이 import를 사용할 수 있습니다.
-import java.util.*;
 
 class Solution2 {
     public int solution(int[] timeTable, int n) {

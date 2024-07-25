@@ -2,7 +2,7 @@
  COS Pro JAVA 2급 5차 9번 : 5차 2급 9_initial_code.java
  ==========================================================*/
 // 다음과 같이 import를 사용할 수 있습니다.
-package Fifthexam5;
+package fifthExam.Fifthexam5;
 import java.util.*;
 
 class Solution {
