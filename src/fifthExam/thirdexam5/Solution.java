@@ -1,7 +1,7 @@
 /*==========================================================
  COS Pro JAVA 2급 5차 5번 : 5차 2급 5_initial_code.java
  ==========================================================*/
-package thirdexam5;
+package fifthExam.thirdexam5;
 class Solution {
     public int solution(int a, int b) {
         int answer = 0;
