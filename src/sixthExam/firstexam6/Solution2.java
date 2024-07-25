@@ -7,10 +7,8 @@ class Solution2 {
         int length = papers.length;
         for(int i = 0; i < papers.length; i++){
             K -= papers[i];
-            if(K < 0) {
-                length = i;
-                break;
-            }
+            if(K < 0)
+                return i;
         }
         return length;
     }

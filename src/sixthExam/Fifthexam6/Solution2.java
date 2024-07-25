@@ -7,7 +7,7 @@ class Solution2 {
         int answer = 0;
 
         for(int i = 0; i < boxes.length; i++)
-            if(660 >= boxes[i] && boxes[i] > 540)
+            if(weight * 0.9 > boxes[i] || boxes[i] > weight * 1.1)
         answer++;
 
         return answer;
