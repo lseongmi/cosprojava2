@@ -1,9 +1,8 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 4번 : 6차 2급 4_initial_code.java
  ======================================================================*/
-package secondexam6;
+package sixthExam.secondexam6;
 // 다음과 같이 import를 사용할 수 있습니다.
-import java.util.*;
 
 public class Solution2 {
     public int solution(String[][] cards) {

@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 2번 : 6차 2급 2_initial_code.java
  ======================================================================*/
-package firstexam6;
+package sixthExam.firstexam6;
 class Solution2 {
     public int solution(int[] papers, int K) {
         int length = papers.length;

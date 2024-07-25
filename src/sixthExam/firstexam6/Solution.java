@@ -1,7 +1,7 @@
 /*=====================================================================
  COS Pro JAVA 2급 6차 1번 : 6차 2급 1_initial_code.java
  ======================================================================*/
-package firstexam6;
+package sixthExam.firstexam6;
 class Solution {
 	public int solution(int[] temperature, int A, int B) {
 		int answer = 0;
